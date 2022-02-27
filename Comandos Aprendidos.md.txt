@@ -1,0 +1,19 @@
+#comandos aprendidos
+
+cd - navegar entre pastas
+
+Ctrl L - limpar tela
+
+cd.. - retorna pasta
+
+mkdir - criar pasta através do Git Bash
+
+mv - move arquivo da pasta
+
+git clone + link do GitHub - para baixar o que está na plataforma
+
+git status - mostra as atualizações da pasta
+
+git add . ou git add -A - adiciona atualizações feitas fora da pasta do Git
+
+git commit - m "escrever uma mensagem " + git push origin main - enviar atualizações para o GitHub.
